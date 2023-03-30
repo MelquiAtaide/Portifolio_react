@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+nav li {
+    list-style: none;
+    padding: 15px;
+    color: white;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}

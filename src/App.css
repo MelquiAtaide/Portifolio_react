@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.page {
+  background-color: #282c34;
+  height: 100vh;
+}
+
+.home {
+  background-color: #121f3a;
+  display: flex;
+  justify-content: space-around;
+}
+
+.home button {
+  height: 40px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
